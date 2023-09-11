@@ -1,42 +1,31 @@
 ---
-title: Gli ideogrammi della donna 
-subtitle: Lorem ipsum est.
-
-# Summary for listings and search engines
-summary: Quando lavoro la complessa materia dei miei dipinti, quando affondo le mani in questa pasta amorfa di colla, canapa e giornali macerati nell'acqua, ho l'impressione di combinare gli elementi primari in un caos che si trasforma in cosmos e, in maniera reversibile, ritorna al suo stato caotico...
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2015-05-01'
-
-# Date updated
-lastmod: '2015-05-01'
-
-# Is this an unpublished draft?
+summary: Quando lavoro la complessa materia dei miei dipinti, quando affondo le
+  mani in questa pasta amorfa di colla, canapa e giornali macerati nell'acqua,
+  ho l'impressione di combinare gli elementi primari in un caos che si trasforma
+  in cosmos e, in maniera reversibile, ritorna al suo stato caotico...
 draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ''
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
-
+lastmod: 2015-05-01
+title: Gli ideogrammi della donna
+subtitle: ""
+date: 2015-05-01
+featured: false
 tags:
   - Art
   - Essai
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
-
 Quando lavoro la complessa materia dei miei dipinti, quando affondo le mani in questa pasta amorfa di colla, canapa e giornali macerati nell'acqua, ho l'impressione di combinare gli elementi primari in un caos che si trasforma in cosmos e, in maniera reversibile, ritorna al suo stato caotico. A volte sovrappongo gli strati di carta giapponese, molto sottile, bagnata di colla e pigmenti, ocra d'oro, ocra calda, rosso rubrica, verde vescica, blu ceruleo, rosso garanza: la superficie si costituisce così come una stratificazione in cui i colori e la carta si mescolano in una nuova unità e il valore originario dei colori e del materiale si trasfigura in un gioco di mescolanza e trasparenza. La terra alla superficie della tela: La moltiplicazione dell'Uno (1987)
+
+
+
+![](featured.jpg)
 
 Segni tracciati col colore ad olio su di una pasta di colla e terra emergono su di un fondo di immagini identiche che si moltiplicano settanta volte. Si tratta della foto di una maschera iniziatica femminile, del gruppo etnico Mende della Sierra Leone. Questa maschera-elmo può essere portata unicamente dalle donne che appartengono a una società segreta avente un potere politico all'interno del gruppo sociale. Infatti è una raro caso in cui in Africa la maschera femminile è interpretata da donne; nella maggioranza dei casi è l'uomo che la porta. La foto di questa maschera si ripete nell'economia del dipinto (cm. 200 x 100), mentre il segno che imita la maschera, tracciato con la terra, si sovrappone alla serie di foto. La moltiplicazione di un oggetto rituale, la produzione in serie di un oggetto che è collocato ("objet posé", cfr. Maertens, Le masque et le miroir) nell'economia simbolica di un gruppo sociale, abolisce il potere del simbolo che è etimologicamente, quello di mettere insieme, di unire ciò che è stato separato, e di costruire il testo, il tessuto simbolico sul quale si basa la vita della comunità. Lo sdoppiamento infinito dell'immagine segna fortemente la nostra epoca: la moltiplicazione dell'Unico, cioè la moltiplicazione di ciò che non può essere riprodotto (in questo caso si tratta della maschera rituale), falsa i meccanismi dello scambio simbolico, tanto nelle società occidentali quanto nelle società africane: un nuovo tipo di ordine è imposto, avente la forza e l'ottusità di uno stereotipo; l'immagine si impone ormai come simulacro, come copia di cui non si conosce più l'originale. Ecco una donna che distrugge la propria immagine:
 
@@ -142,21 +131,22 @@ Il fuoco che è dentro di me
 ifestion
 
 ### Bibliografia
-- Biancofiore, Angela, « Titolo e ideogramma nella pratica della pittura », Micromégas, 1990.
-- Calabrese, Omar, « Il sogno della materia », in La scrittura degli elementi, a cura di A. Ponzio, opere di A. Biancofiore, Bari, Edizioni dal Sud, 1988.
-- Id., Caos e bellezza. Immagini del neobarocco, Milano, Domus/Academy, 1991.
-- Février, Jean, Histoire de l'écriture, Paris, Payot, 1984.
-- Focillon, Henri, Vie des Formes, Paris, Librairie Ernest Leroux, 1943.
-- Galimberti, Umberto, La terra senza il male , Milano, Feltrinelli, 1984.
-- Granet, Marcel, La pensée chinoise (1934), Paris, Albin Michel, 1980.
-- Lacan, Jacques, « L'instance de la lettre dans l'inconscient », in Ecrits, Paris, Seuil, 1966.
-- Levinas, Emmanuel, L'humanisme de l'autre homme, Montpellier, Fata Morgana, 1972.
-- Id., « Le sens et l'œuvre. Dialogue avec E. Levinas », a cura di A. Biancofiore, Athanor 1, 1990.
-- Maertens, Jean-Thierry, Le masque et le miroir, Paris, Abier Montaigne, 1979.
-- Perniola, Mario, La società dei simulacri, Bologna, Cappelli, 1980.
-- Id. Enigmi.Il momento egizio nella società e nell'arte, Genova, Costa & Nolan, 1990.
-- Id., Del sentire, Torino, Einaudi, 1991.
-- Id., « Fondazionalismo artistico. A proposito di alcuni dipinti di A. Biancofiore », Athanor 2, 1991.
-- Ponzio, Augusto, « Ta stoicheia », in La scrittura degli elementi, cit. Id., « Verso la città senza nome », Athanor 2, 1991.
-- Rossi-Landi, Ferruccio, Significato, comunicazione e parlare comune, Padova, Marsilio, 1961, 1980.
-- Valéry, Paul, Œuvres I-II, Paris, Gallimard, 1957-1960. Id., Cahiers I-II, Paris, Gallimard, 1973-1974.
+
+* Biancofiore, Angela, « Titolo e ideogramma nella pratica della pittura », Micromégas, 1990.
+* Calabrese, Omar, « Il sogno della materia », in La scrittura degli elementi, a cura di A. Ponzio, opere di A. Biancofiore, Bari, Edizioni dal Sud, 1988.
+* Id., Caos e bellezza. Immagini del neobarocco, Milano, Domus/Academy, 1991.
+* Février, Jean, Histoire de l'écriture, Paris, Payot, 1984.
+* Focillon, Henri, Vie des Formes, Paris, Librairie Ernest Leroux, 1943.
+* Galimberti, Umberto, La terra senza il male , Milano, Feltrinelli, 1984.
+* Granet, Marcel, La pensée chinoise (1934), Paris, Albin Michel, 1980.
+* Lacan, Jacques, « L'instance de la lettre dans l'inconscient », in Ecrits, Paris, Seuil, 1966.
+* Levinas, Emmanuel, L'humanisme de l'autre homme, Montpellier, Fata Morgana, 1972.
+* Id., « Le sens et l'œuvre. Dialogue avec E. Levinas », a cura di A. Biancofiore, Athanor 1, 1990.
+* Maertens, Jean-Thierry, Le masque et le miroir, Paris, Abier Montaigne, 1979.
+* Perniola, Mario, La società dei simulacri, Bologna, Cappelli, 1980.
+* Id. Enigmi.Il momento egizio nella società e nell'arte, Genova, Costa & Nolan, 1990.
+* Id., Del sentire, Torino, Einaudi, 1991.
+* Id., « Fondazionalismo artistico. A proposito di alcuni dipinti di A. Biancofiore », Athanor 2, 1991.
+* Ponzio, Augusto, « Ta stoicheia », in La scrittura degli elementi, cit. Id., « Verso la città senza nome », Athanor 2, 1991.
+* Rossi-Landi, Ferruccio, Significato, comunicazione e parlare comune, Padova, Marsilio, 1961, 1980.
+* Valéry, Paul, Œuvres I-II, Paris, Gallimard, 1957-1960. Id., Cahiers I-II, Paris, Gallimard, 1973-1974.
