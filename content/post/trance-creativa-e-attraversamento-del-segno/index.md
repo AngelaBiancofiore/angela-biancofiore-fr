@@ -1,5 +1,5 @@
 ---
-summary: Lorem ipsum est.
+summary: ""
 draft: false
 authors:
   - admin
