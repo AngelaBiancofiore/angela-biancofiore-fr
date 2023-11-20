@@ -5,7 +5,11 @@ authors:
   - admin
 lastmod: 2015-05-01
 title: Trance creativa e attraversamento del segno
-subtitle: ""
+subtitle: in Dissociazione e creatività. La transe dell’artista, textes
+  recueillis par Vincenzo Ampolo et Luisella Carretta, Udine, Campanotto
+  editore, 2005, p. 89-94.in Dissociazione e creatività. La transe dell’artista,
+  textes recueillis par Vincenzo Ampolo et Luisella Carretta, Udine, Campanotto
+  editore, 2005, p. 89-94.
 date: 2015-05-01
 featured: false
 tags:
@@ -134,10 +138,16 @@ La pittura ha per me questa funzione essenziale: essere flusso che si coniuga co
 
 ### Riferimenti bibliografici
 
-* Bond Edward, Grammaire de l'art et logique de l'humain, *Le monde* (27/9/2003).
-* Deleuze Gilles, *Pourparlers,* Minuit, 1990.
-* *Idem, Francis Bacon. Logique de la sensation,* Paris, Seuil, 2002.
-* Leiris Michel, *De la littérature considérée comme une tauromachie*, Paris, Gallimard, 1939.
-* Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, *Conversazioni con Georges Raillard*, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
-* Sabato Ernesto, *L'écrivain et la catastrophe,* Seuil, 1986, p. 62, 8 e 21.
-* Idem, *La résistance,* Paris, Seuil, 2002.
+Bond Edward, Grammaire de l'art et logique de l'humain, *Le monde* (27/9/2003).
+
+Deleuze Gilles, *Pourparlers,* Minuit, 1990.
+
+*Idem, Francis Bacon. Logique de la sensation,* Paris, Seuil, 2002.
+
+Leiris Michel, *De la littérature considérée comme une tauromachie*, Paris, Gallimard, 1939.
+
+Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, *Conversazioni con Georges Raillard*, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
+
+Sabato Ernesto, *L'écrivain et la catastrophe,* Seuil, 1986, p. 62, 8 e 21.
+
+Idem, *La résistance,* Paris, Seuil, 2002.
