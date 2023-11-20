@@ -1,38 +1,21 @@
 ---
-title: Trance creativa e attraversamento del segno
-subtitle: Lorem ipsum est.
-
-# Summary for listings and search engines
 summary: Lorem ipsum est.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2015-05-01'
-
-# Date updated
-lastmod: '2015-05-01'
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ''
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
-
+lastmod: 2015-05-01
+title: Trance creativa e attraversamento del segno
+subtitle: ""
+date: 2015-05-01
+featured: false
 tags:
   - Art
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
 
 ### Il tratto incarnato
