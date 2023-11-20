@@ -17,7 +17,6 @@ image:
   placement: 2
   preview_only: false
 ---
-
 ### Il tratto incarnato
 
 Quando dipingo, affinché i segni attraversino il corpo, devo rendermi disponibile e aperta ad accoglierli, devo raggiungere uno stato di concentrazione tale che l'occhio, la mano e il soffio siano in perfetta sintonia. Potremmo chiamare questo stato non ordinario della coscienza  "trance creativa".
@@ -43,12 +42,11 @@ I segni emergono in me <br>
 Straripano <br>
 Si riversano sul foglio <br>
 Segni di vita, di sole, di parto, di eruzione, di grido, di dialogo, di caccia, inseguimento, violenza
- 
+
 Segni di morte-vita <br>
 nascita distruzione <br>
 cielo terra <br>
 colore  freddo colore caldo
- 
 
 La violenza degli elementi naturali si esprime nello spazio del foglio
 
@@ -80,9 +78,9 @@ Dipingo sulla tela o sulla carta disposte orizzontalmente sul suolo, dipingere c
 
 La trance creativa ci riporta a stadi originari della coscienza, laddove prende inizio la relazione tra corpo e scrittura.
 
-Leggiamo ancora a proposito di Tàpies: "Terra e pittura (1956) o Serranda metallica e violino (1956) … Opere del genere non sono metafore, ma s'impongono alla nostra vista, ai nostri sensi, grazie a ciò che in esse vibra del ritmo di un corpo – spirito e materia anteriori alla separazione logica, unità recuperata nella visione di una Forma nuova, sempre in movimento, di uno scaglionarsi di rinascite […]
+Leggiamo ancora a proposito di Tàpies: "Terra e pittura (1956) o Serranda metallica e violino (1956) … Opere del genere non sono metafore, ma s'impongono alla nostra vista, ai nostri sensi, grazie a ciò che in esse vibra del ritmo di un corpo – spirito e materia anteriori alla separazione logica, unità recuperata nella visione di una Forma nuova, sempre in movimento, di uno scaglionarsi di rinascite \[…]
 
-c'è la stanza […] dove si svolge l'attività artistica, col raccogliersi dell'energia, la decisione immediata, la sorpresa e la ripresa. Ma il lavoro sta nella continuità, nell'unità di un movimento dell'intero essere – affetti, impegni, cultura, riflessione, intelligenza, scrittura, sensibilità ad un tempo, lo stesso tempo, quello dell'"unico tratto di pennello", come dicono i Cinesi" (Raillard, op. cit., sottolineature mie).
+c'è la stanza \[…] dove si svolge l'attività artistica, col raccogliersi dell'energia, la decisione immediata, la sorpresa e la ripresa. Ma il lavoro sta nella continuità, nell'unità di un movimento dell'intero essere – affetti, impegni, cultura, riflessione, intelligenza, scrittura, sensibilità ad un tempo, lo stesso tempo, quello dell'"unico tratto di pennello", come dicono i Cinesi" (Raillard, op. cit., sottolineature mie).
 
 L'artista sente più di chiunque altro l'unità essenziale del mondo. Pensieri e sensazioni convergono in un flusso unico sulla carta e sulla tela.
 
@@ -135,10 +133,11 @@ Afferma Deleuze: ": l'art, c'est ce qui résiste: il résiste à la mort, à la 
 La pittura ha per me questa funzione essenziale: essere flusso che si coniuga con altri flussi: intenso,  istantaneo e mutevole, sospeso, come le forze cosmiche, tra una creazione e una distruzione.
 
 ### Riferimenti bibliografici
-- Bond Edward, Grammaire de l'art et logique de l'humain, "Le monde" (27/9/2003).
-- Deleuze Gilles, Pourparlers, Minuit, 1990.
-- Idem, Francis Bacon. Logique de la sensation, Paris, Seuil, 2002.
-- Leiris Michel, De la littérature considérée comme une tauromachie, Paris, Gallimard, 1939.
-- Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, Conversazioni con Georges Raillard, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
-- Sabato Ernesto, L'écrivain et la catastrophe, Seuil, 1986, p. 62, 8 e 21.
-- Idem, La résistance, Paris, Seuil, 2002.
+
+* Bond Edward, Grammaire de l'art et logique de l'humain, *Le monde* (27/9/2003).
+* Deleuze Gilles, *Pourparlers,* Minuit, 1990.
+* *Idem, Francis Bacon. Logique de la sensation,* Paris, Seuil, 2002.
+* Leiris Michel, *De la littérature considérée comme une tauromachie*, Paris, Gallimard, 1939.
+* Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, *Conversazioni con Georges Raillard*, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
+* Sabato Ernesto, *L'écrivain et la catastrophe,* Seuil, 1986, p. 62, 8 e 21.
+* Idem, *La résistance,* Paris, Seuil, 2002.
