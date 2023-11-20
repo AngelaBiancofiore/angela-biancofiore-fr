@@ -1,68 +1,48 @@
 ---
-# Display name
-title: Angela Biancofiore
-
-# Full name (for SEO)
-first_name: Angela
-last_name: Biancofiore
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Artiste et écrivain
-
-# Organizations/Affiliations to show in About widget
-organizations: []
-
-# Short bio (displayed in user profile at end of posts)
-bio: Sa production artistique recouvre, en dehors de la peinture, la céramique, le papier mâché, la création d’assemblages et la sculpture en bronze.
-
-# Interests to show in About widget
+bio: Sa production artistique recouvre, en dehors de la peinture, la céramique,
+  le papier mâché, la création d’assemblages et la sculpture en bronze.
 interests: []
-
-# Education to show in About widget
-education: []
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BiancofioreAng1
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://www.researchgate.net/profile/Angela-Biancofiore
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@aoudplayer
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: Université Paul-Valéry Montpellier
+    url: https://www.univ-montp3.fr/
+  - name: Groupement d'intérêt scientifique (GIS) Théories et pratiques du care
+    url: https://tepcare.hypotheses.org/
+education: []
+superuser: true
+status:
+  icon: ☕️
+last_name: Biancofiore
+role: Artiste et écrivain
 highlight_name: true
+title: Angela Biancofiore
+first_name: Angela
+email: angela.biancofiore[at]univ-montp3.fr
 ---
+Artiste, chercheuse et enseignante, elle est née à Bari (Italie); elle enseigne l'art et la littérature italienne ainsi que les humanités écologiques à l’Université Paul-Valéry de Montpellier où elle Professeur depuis 2008.
 
-Artiste et écrivain, elle est née à Bari (Italie); elle a fréquenté la Scuola Libera del Nudo à l'Académie des Beaux Arts de Florence et, en particulier, les cours de dessin, de gravure et d'histoire de l'art. Sa production artistique recouvre, en dehors de la peinture, la céramique, le papier mâché, la création d'assemblages et la sculpture en bronze. Sa peinture, définie par certains critiques comme une "archéologie imaginaire" (Omar Calabrese) est centrée sur la recherche du rapport entre dessin et écriture, un véritable voyage à travers le langage des communautés humaines, une traversée des signes: des signes crétois inscrits sur les sceaux ou les tablettes (elle a vécu en Crète), aux gravures rupestres du Haut Atlas (Oukaimeden, Maroc); de la vallée des Merveilles (Alpes Maritimes) et du Val Camonica (Italie) jusqu'aux mystérieux signes peints à la chaux sur les maisons en pierre de sa région natale: les Trulli (dans les Pouilles, pas loin de Bari). <br> <br>
-Elle a développé également une recherche sur l'écriture du corps qui a abouti à une [Performance for signs, body and orchestra](https://angela-biancofiore.netlify.app/project/performance-for-body-signs-and-orchestra/). Elle expose ses travaux en Europe (Italie, France, Belgique, Espagne, Grèce) et dans le monde (Etats-Unis, Mexique, Maroc, Chine) depuis 1984. Elle est l'auteur de plusieurs livres sur la pratique de l'art, la lecture de l'image et du texte littéraire. Parmi ses publications sur la peinture : [La scrittura degli elementi](https://angela-biancofiore.netlify.app/project/ecriture-des-elements/) (Bari, Adriatica, 1988), [Cartes sans territoires](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/) (Paris / New York, Euromedia, 1996), [Signes nomades](https://angela-biancofiore.netlify.app/project/signes-nomades/) (Montpellier, Euromedia, 1999), [Corpi radianti](https://angela-biancofiore.netlify.app/project/corpi-radianti/) (Venise, éd. Eidos, 2007). Elle a publié également des essais sur la création littéraire et artistique : L'opera e il metodo (Lecce, Milella, 1991), Benvenuto Cellini artiste-écrivain: l'homme à l'œuvre (Paris, L’Harmattan, 1998), Pasolini (Palermo Palumbo, 2003), Pasolini : pour une anthropologie poétique, Montpellier, Presses Universitaires de la Méditerranée, 2007, [Entre rêve confus et apparitions : la poésie de Sandro Penna](https://angela-biancofiore.netlify.app/publication/sandro-penna/) (en collaboration avec Christelle Balderas), Hambourg/Castries, Dobu/Cladole, 2011, [Pasolini. Devenir d’une création](https://angela-biancofiore.netlify.app/publication/pasolini/), Paris, L’Harmattan, 2012; Soyons le changement… Nouvelles tendances dans la littérature italienne contemporaine. Une anthologie, textes recueillis par Romano Summa et Sondes Ben Abdallah, traduction Manon Rentz, sous la directions de A. Biancofiore. <br> <br>
-Depuis 1993, elle enseigne l'art et la littérature italienne à l’Université Paul-Valéry de Montpellier où elle Professeur depuis 2008. <br> <br>
-Elle dirige la revue Web [Notos: espaces de la création. Arts, écritures, utopies](https://notos.numerev.com/).
+Elle a fréquenté la Scuola Libera del Nudo à l'Académie des Beaux Arts de Florence et, en particulier, les cours de dessin, de gravure et d'histoire de l'art. Sa production artistique recouvre, en dehors de la peinture, la céramique, le papier mâché, la création d'assemblages et la sculpture en bronze. Sa peinture, définie par certains critiques comme une "archéologie imaginaire" (Omar Calabrese) est centrée sur la recherche du rapport entre dessin et écriture, un véritable voyage à travers le langage des communautés humaines, une traversée des signes: des symboles crétois inscrits sur les sceaux ou les tablettes aux gravures rupestres du Haut Atlas (Oukaimeden, Maroc); de la vallée des Merveilles (Alpes Maritimes) et du Val Camonica (Italie) jusqu'aux mystérieux signes peints à la chaux sur les maisons en pierre de sa région natale: les Trulli (dans les Pouilles, pas loin de Bari). <br> <br>
+Elle a développé également une recherche sur l'écriture du corps qui a abouti à une [Performance for signs, body and orchestra](https://angela-biancofiore.netlify.app/project/performance-for-body-signs-and-orchestra/). Elle expose ses travaux en Europe (Italie, France, Belgique, Espagne, Grèce) et dans le monde (Etats-Unis, Mexique, Maroc, Chine) depuis 1984. Elle est l'auteur de plusieurs livres sur la pratique de l'art, la lecture de l'image et du texte littéraire. Parmi ses publications sur la peinture : [La scrittura degli elementi](https://angela-biancofiore.netlify.app/project/ecriture-des-elements/) (Bari, Adriatica, 1988), [Cartes sans territoires](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/) (Paris / New York, Euromedia, 1996), [Signes nomades](https://angela-biancofiore.netlify.app/project/signes-nomades/) (Montpellier, Euromedia, 1999), [Corpi radianti](https://angela-biancofiore.netlify.app/project/corpi-radianti/) (Venise, éd. Eidos, 2007). Elle a publié également des essais sur la création littéraire et artistique : *L'opera e il metodo* (Lecce, Milella, 1991), *Benvenuto Cellini artiste-écrivain: l'homme à l'œuvre* (Paris, L’Harmattan, 1998), *Pasolini* (Palermo Palumbo, 2003), *Pasolini : pour une anthropologie poétique*, Montpellier, Presses Universitaires de la Méditerranée, 2007, [Entre rêve confus et apparitions : la poésie de Sandro Penna](https://angela-biancofiore.netlify.app/publication/sandro-penna/) (en collaboration avec Christelle Balderas), Hambourg/Castries, Dobu/Cladole, 2011, [Pasolini. Devenir d’une création](https://angela-biancofiore.netlify.app/publication/pasolini/), Paris, L’Harmattan, 2012; [*Soyons le changement… Nouvelles tendances dans la littérature italienne contemporaine. Une anthologie*, ](https://www.sies-asso.org/publications/1925-soyons-le-changement-nouvelles-tendances-dans-la-litterature-italienne-contemporaine-une-anthologie)(en collaboration avec Romano Summa et Sondes Ben Abdallah) <br> <br> Elle a publié avec Clément Barniaudy l'ouvrage collectif  [Re-storying Mediterranean Worlds. New Narratives from Italian Cultures to Global Citizenship](https://www.bloomsbury.com/uk/restorying-mediterranean-worlds-9781501378935/) (Bloomsbury 2021). <br> <br>
+Elle co-dirige la revue Web [Notos: espaces de la création. Arts, écritures, utopies](https://notos.numerev.com/).
 {style="text-align: justify;"}
 
 ### Expositions personnelles :
+
 <b>1996</b> Institut culturel français de Tétouan, Maroc.
 [Cartes sans territoires](https://angela-biancofiore.netlify.app/project/cartes-sans-territoires/), Espace Louis Feuillade, avec le concours de la Ville de Lunel. Rosenthal Art Gallery, Queens college, New York.
 
@@ -87,6 +67,7 @@ Galerie Tassili, Montpellier.
 <b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), en collaboration avec le poète Clément Barniaudy, Librairie Domens, Pézenas
 
 ### Expositions de groupe :
+
 <b>1996</b> Gli artisti ripensano la città, Teatro Kismet, Bari, organisé par l'Associazione Apotema.
 
 <b>1999</b> Club de la Presse, Montpellier.
@@ -111,6 +92,7 @@ Il fuoco, Galerie Le Arie del tempo, Genova.
 <b>2008</b> Exposition pour l’inauguration des jeux olympiques, Maison d’Italie, Pékin.
 
 ### Poésie et peinture : les livres d'artiste
+
 <b>1992</b> L'ouverture de la bouche, Livre d'artiste, Poèmes de Michel Eckhard Elial avec seize encres originaux d'Angela Biancofiore, Editions Levant.
 
 <b>1993</b> Au midi du retour, Poèmes-signes en collaboration avec Michel Eckhard Elial, « Levant » 6/1993.
