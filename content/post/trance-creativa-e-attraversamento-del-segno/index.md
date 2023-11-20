@@ -5,10 +5,8 @@ authors:
   - admin
 lastmod: 2015-05-01
 title: Trance creativa e attraversamento del segno
-subtitle: in Dissociazione e creatività. La transe dell’artista, textes
-  recueillis par Vincenzo Ampolo et Luisella Carretta, Udine, Campanotto
-  editore, 2005, p. 89-94.in Dissociazione e creatività. La transe dell’artista,
-  textes recueillis par Vincenzo Ampolo et Luisella Carretta, Udine, Campanotto
+subtitle: testo pubblicato in Dissociazione e creatività. La transe
+  dell’artista, a cura di Vincenzo Ampolo e Luisella Carretta, Udine, Campanotto
   editore, 2005, p. 89-94.
 date: 2015-05-01
 featured: false
