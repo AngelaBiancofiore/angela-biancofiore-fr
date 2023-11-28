@@ -41,12 +41,4 @@ De la précarité des signes <br>
 et de l’indécision des symboles. <br>
 
 
-Des signes <br>
-qui nous interpellent, <br>
-nous interrogent <br>
-et finissent <br>
-par s’inscrire en nous, <br>
-comme des rêves <br>
-qu’on porte en soi, <br>
-ou des espoirs. <br>
 <b>Abdelhak Serhane</b>
